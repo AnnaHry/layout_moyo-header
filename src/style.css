@@ -18,12 +18,9 @@ body {
   background-color: #fff;
 }
 
-.img_logo {
-  width: 40;
-  height: 40;
-  top: 10px;
-  left: 50px;
-  opacity: 1;
+.logo {
+  width: 40px;
+  height: 40px;
   display: block;
 }
 
